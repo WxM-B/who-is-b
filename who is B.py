@@ -1,4 +1,4 @@
-# bai_nodes.py
+# who-is-b.py
 
 nodes = {
     # === TAYLOR SWIFT (22 nodes) ===
