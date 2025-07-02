@@ -1,7 +1,7 @@
 # who-is-b.py
 
 nodes = {
-    # === TAYLOR SWIFT (22 nodes) ===
+    # === TS (22 nodes) ===
     "the_1": {
         "index": 1,
         "tier1": "Folklore:: the one/ the 1 :: the 1 folklore",
@@ -135,7 +135,7 @@ nodes = {
         "tier3": ":: who is b? Flowing code :: path loop",
     },
 
-    # === EMINEM (22 nodes) ===
+    # === MM (22 nodes) ===
     "stan": {
         "index": 23,
         "tier1": "Marshall:: stan :: obsessive fan tale",
@@ -278,5 +278,5 @@ def get_node(index):
 
 if __name__ == "__main__":
     # Quick test print of first and last node
-    print(get_node(1))   # Taylor Swift first node
-    print(get_node(44))  # Eminem last node
+    print(get_node(1))   # 13 = B ? (SHAPE WISE?)
+    print(get_node(44))  # Oominoom
